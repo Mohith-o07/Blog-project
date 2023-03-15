@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+<p>thiss home page</p>
+{% if user.is_authenticated %}
+<h1>User only data</h1>
+{% endif %}
+{% endblock %}
+{% block head_title %}
+     Home page
+{% endblock %}
