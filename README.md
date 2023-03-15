@@ -8,4 +8,4 @@ To see what's cooking, make sure you got Django and python installed on your PC.
 4) Now, the server gets started. Go to your local browser and enter the address given.
 5) Voilà! You can see the blog I created!\
 ->Tools used: Sublime Text.\
-->Platform: Ubuntu.\
+->Platform: Ubuntu.
