@@ -1,6 +1,6 @@
 # Blog-project
 Hi there!
-This is a blog I created using Django, though this is a pretty basic and preliminary one.
+This is a blog I created using Django, although this is a pretty basic and preliminary one.
 To see what's cooking, make sure you got Django and python installed on your PC. Install any additional packages through pip command. Then:
 1) Open Command line (preferably Ubuntu) in your PC.
 2) Enter cd try_django/src
